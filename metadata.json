@@ -1,0 +1,7 @@
+{
+  "name": "EcoRoute Planner - Analisador de Viagens",
+  "description": "Um aplicativo inteligente para planejar rotas entre cidades, calculando custos de combustível, rendimento do veículo e recomendando os melhores pontos de parada, restaurantes e postos de combustível.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
